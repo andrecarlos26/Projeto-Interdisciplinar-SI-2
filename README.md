@@ -7,8 +7,11 @@ Este trabalho apresenta todo o processo de tratamento de dados dos microdados do
 
 Importante: A implementação foi realizada através do Google Collab e está dividido por Branchs, na qual cada Branch apresenta um notebook referente a uma etapa do projeto.
 
-Equipe: André Carlos Santos de Assis
-        Bruno da Silva Leite
-        Gabriel Santana Caboclo da Silva
+Equipe: André Carlos Santos de Assis;
+
+        Bruno da Silva Leite;
+
+        Gabriel Santana Caboclo da Silva;
+
         
 Professor: Rodrigo Soares
