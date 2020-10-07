@@ -9,9 +9,8 @@ Importante: A implementação foi realizada através do Google Collab e está di
 
 Equipe: André Carlos Santos de Assis;
 
-        Bruno da Silva Leite;
-
-        Gabriel Santana Caboclo da Silva;
-
+Bruno da Silva Leite;
+        
+Gabriel Santana Caboclo da Silva;
         
 Professor: Rodrigo Soares
